@@ -140,38 +140,41 @@ body {
     
     .center {
         row-gap: 30px;
+    
     }
-}
 
-.headline1 {
-    font-size: 37px;
-    line-height: 54px;
-    letter-spacing: 0.25px;
-}
+    .headline1 {
+        font-size: 37px;
+        line-height: 54px;
+        letter-spacing: 0.25px;
+    }
 
-.headline2 {
-    font-size: 36px;
-    line-height: 54px;
-    letter-spacing: 0.25px;
-}
+    .headline2 {
+        font-size: 36px;
+        line-height: 54px;
+        letter-spacing: 0.25px;
+    }
 
-.para1 {
-    width: 540px;
-}
+    .para1 {
+        width: 540px;
+    }
 
-.icon {
-    width: 64px;
-    height: 64px;
-    left: 254px;
-    top: 154px;
-}
+    .icon {
+        width: 64px;
+        height: 64px;
+        left: 254px;
+        top: 154px;
+    }
 
-.box {
-    width: 350px;
-    height: 250px;
-}
+    .box {
+        width: 350px;
+        height: 250px;
+    }
 
-.red, .green, .yellow, .blue {
-    width: 350px;
-    height: 4px;
+    .red, .green, .yellow, .blue {
+        width: 350px;
+        height: 4px;
+    }
+
+
 }
