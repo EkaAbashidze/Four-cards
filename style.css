@@ -173,4 +173,5 @@ body {
 
 .red, .green, .yellow, .blue {
     width: 350px;
+    height: 4px;
 }
